@@ -8,3 +8,5 @@ Before investing in an AI model, we have to know what works best for our needs. 
  - General data relations
 
 We have segregated the LLM responses into folders and saved them here. To read the full summary head to our [Medium blog](https://medium.com/@aimluniverse/claudes-sonet-vs-openai-s-chatgpt-0a656a5063c6).
+
+Looking for more hands-on guides? Visit our website for the [best data science Insights](https://www.aimluniverse.in/)! Follow us on [LinkedIn](https://www.linkedin.com/company/ai-ml-universe/). Subscribe to our Newsletter to receive [weekly AI updates](https://aimluniverse.beehiiv.com/subscribe)!
